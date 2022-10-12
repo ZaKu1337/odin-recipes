@@ -16,7 +16,7 @@
 
 ## General Information
 - Part of The Odin Project course. 
-- This project aims to test only HMTL skills by creating basic   website (without CSS or JS) and basics of commiting code to GitHub. 
+- This project aims to test only HMTL skills by creating basic   website (without CSS or JS) and basics of committing code to GitHub. 
 - The website consists of the main index page which will have links to a few recipes.
 
 
@@ -36,7 +36,7 @@ List the ready features here:
 
 
 ## Setup
-Simple index.html with subpages containing recipies - no need to install or setup.
+Simple index.html with subpages containing recipes - no need to install or setup.
 
 
 ## Project Status
