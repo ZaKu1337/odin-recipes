@@ -9,14 +9,13 @@
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 
 ## General Information
 - Part of The Odin Project course. 
-- This project aims to test only HMTL skills by creating basic   website (without CSS or JS) and basics of committing code to GitHub. 
+- This project aims to test HMTL skills by creating basic website and basics of committing code to GitHub. 
 - The website consists of the main index page which will have links to a few recipes.
 
 
@@ -26,13 +25,12 @@
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- "Go to top" and "Main page"
+- Added dark background color for better visibility
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Landing page](./img/git-preview.jpg)
 
 
 ## Setup
@@ -41,18 +39,6 @@ Simple index.html with subpages containing recipes - no need to install or setup
 
 ## Project Status
 Project is: _in progress_ /<s> _complete_ </s>/<s> _no longer being worked on_</s>
-
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
 
 
 ## Acknowledgements
