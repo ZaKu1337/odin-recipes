@@ -38,7 +38,7 @@ Simple index.html with subpages containing recipes - no need to install or setup
 
 
 ## Project Status
-Project is:<s>_in progress_</s>/_complete_/<s> _no longer being worked on_</s>
+Project is:<s>_in progress_</s>/_complete_/<s>_no longer being worked on_</s>
 
 
 ## Acknowledgements
