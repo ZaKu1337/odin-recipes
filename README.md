@@ -42,7 +42,6 @@ Project is:<s>_in progress_</s>/_complete_/<s>_no longer being worked on_</s>
 
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by [@TheOdinProject](https://github.com/TheOdinProject)
 - Many thanks to [@ritaly](https://github.com/ritaly) For Providing README.md cheatsheet
 
