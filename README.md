@@ -21,12 +21,13 @@
 
 ## Technologies Used
 - HTML 5
+- CSS
 
 
 ## Features
 List the ready features here:
 - "Go to top" and "Main page"
-- Added dark background color for better visibility
+- Add dark background color for better visibility
 
 
 ## Screenshots
@@ -38,7 +39,7 @@ Simple index.html with subpages containing recipes - no need to install or setup
 
 
 ## Project Status
-Project is:<s>_in progress_</s>/_complete_/<s>_no longer being worked on_</s>
+Project is: <s>_in progress_</s>/_complete_/<s>_no longer being worked on_</s>
 
 
 ## Acknowledgements
