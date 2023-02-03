@@ -31,7 +31,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Landing page](./img/git-preview.jpg)
+![Landing page](../odin-recipes/img/git-preview.png)
 
 
 ## Setup
